@@ -1,0 +1,60 @@
+# ==============================
+# Python / FastAPI (api/)
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+alembic/versions/__pycache__/
+
+# ==============================
+# Node / React (web/)
+# ==============================
+node_modules/
+web/dist/
+
+# ==============================
+# Environment variables
+# ==============================
+.env
+.env.local
+.env.*.local
+
+# ==============================
+# IDE — VS Code
+# ==============================
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/agents/
+
+# ==============================
+# IDE — JetBrains
+# ==============================
+.idea/
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Editor swap / temp files
+# ==============================
+*.swp
+*.swo
+*~
+
+# ==============================
+# Logs
+# ==============================
+*.log
