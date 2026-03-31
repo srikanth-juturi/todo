@@ -34,7 +34,6 @@ web/dist/
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
-!.vscode/agents/
 
 # ==============================
 # IDE — JetBrains

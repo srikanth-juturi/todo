@@ -17,7 +17,7 @@ configuration for a Todo app monorepo.
   - `database-migration.skill.yml`
   - `performance-review.skill.yml`
   - `security-review.skill.yml`
-- `.vscode/agents/`: Focused agent profiles for backend and frontend tasks.
+- `.github/copilot/`: Focused agent profiles for backend and frontend tasks.
 
 ## Intended Monorepo Layout
 
